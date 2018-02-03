@@ -1,6 +1,5 @@
 ---
 title: 'Path in Curvilinear Coordinates'
-mathjax: true
 ---
 Curvilinear Problem Example 2
 
