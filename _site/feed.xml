@@ -5,8 +5,8 @@
     <description>Dynamics of Rigid Bodies</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Feb 2018 20:31:49 +0800</pubDate>
-    <lastBuildDate>Sat, 03 Feb 2018 20:31:49 +0800</lastBuildDate>
+    <pubDate>Sat, 03 Feb 2018 23:13:14 +0800</pubDate>
+    <lastBuildDate>Sat, 03 Feb 2018 23:13:14 +0800</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -52,8 +52,8 @@ For now I wish to try also the mathjax plugin to show the math&lt;/p&gt;
 &lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;https://docs.google.com/drawings/d/e/2PACX-1vQjMbD73j9_KiMmq7oeWGkKOHhUWTXvCP4fZF1IKf26vEeqDEP0bt6rzIcLKrOW7Do1V7H5vZ6DG71w/pub?w=470&amp;amp;h=275&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Feb 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/Curvilinear_example1/</link>
-        <guid isPermaLink="true">http://localhost:4000/Curvilinear_example1/</guid>
+        <link>http://localhost:4000/curvilinear-example1/</link>
+        <guid isPermaLink="true">http://localhost:4000/curvilinear-example1/</guid>
         
         
       </item>
