@@ -1,4 +1,5 @@
 ---
+subheadline: About this Theme
 title: 'Path in Curvilinear Coordinates'
 ---
 Curvilinear Problem Example 2
