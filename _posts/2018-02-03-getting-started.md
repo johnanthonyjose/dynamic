@@ -2,7 +2,6 @@
 image: 'photo-matteo-paganelli.jpg'
 caption: 'Photo Matteo Paganelli'
 caption_url: 'http://www.mpaga.it/'
-mathjax: true
 ---
 This is my front page. I'm just starting to populate my blog. 
 For now I wish to try also the mathjax plugin to show the math
