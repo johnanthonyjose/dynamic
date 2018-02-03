@@ -14,4 +14,4 @@ $$\begin{aligned}
 \end{aligned}$$
 <!--more-->
 
-Right now, I am creating a personal blog for Engineering Mechanics Dynamics. If you're interested on my project, contribute on my [GitHub](https://github.com/johnanthonyjose/johnanthonyjose).
+Right now, I am creating a personal blog for Engineering Mechanics Dynamics. If you're interested on my project, contribute on my [GitHub Repository](https://github.com/johnanthonyjose/dynamic).
